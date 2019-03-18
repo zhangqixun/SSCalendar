@@ -1,1 +1,1 @@
-# SSCalendar
+# SSCalendar平台说明
